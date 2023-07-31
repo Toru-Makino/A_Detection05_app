@@ -1,0 +1,14 @@
+click==8.0.4
+colorama==0.4.5
+Flask==1.1.2
+gunicorn==20.1.0
+itsdangerous==2.0.1
+Jinja2==2.11.3
+MarkupSafe==2.0.1
+opencv-python==4.8.0.74 
+Werkzeug==2.0.3
+pillow==9.2.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.12.1+cpu
+pytorch-lightning==2.0.2
+torchvision==0.13.1+cpu
